@@ -3,7 +3,7 @@
 <h2>📚 About </h2>
 
 - 👋 Hi, I’m Rayan
-- 👀 I’m interested in bot development, web scraping and web development.
+- 🏆 I'm specialized in bot development and web scraping
 - 🌱 I’m currently learning Javascript
 - 🚀 I'm looking to collaborate on any type of web project / web scraping or bot development of any kind.
 
