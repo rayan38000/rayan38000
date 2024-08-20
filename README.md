@@ -21,7 +21,7 @@ Need the help of a developer to bring your project to life?
 ![Html](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![Css](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-Json-yellow?logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/-SQL-red?logo=bdd&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=fff)
