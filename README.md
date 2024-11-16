@@ -26,3 +26,7 @@ Need the help of a developer to bring your project to life?
 ![SQL](https://img.shields.io/badge/-SQL-red?logo=bdd&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=fff)
 ----
+<p align="center"> 
+  Compteur de visites<br>
+  <img src="https://profile-counter.glitch.me/rayan38000/count.svg"/>
+</p>
