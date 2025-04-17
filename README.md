@@ -25,6 +25,8 @@ Need the help of a developer to bring your project to life?
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/-SQL-red?logo=bdd&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=fff)
 ----
 <p align="center"> 
   Compteur de visites<br>
