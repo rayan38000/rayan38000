@@ -3,7 +3,7 @@
 <h2>📚 About </h2>
 
 - 👋 Hi, I’m Rayan
-- 🏆 I'm specialized in bot development, web scraping and website reverse engineering
+- 🏆 I'm specialized in bot development, web scraping and API reverse engineering
 - 🌱 I’m currently learning Java
 - 🚀 I'm looking to collaborate on any type of web project or bot development of any kind.
 
