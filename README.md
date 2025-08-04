@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Rayan
 - 🏆 I'm specialized in bot development, web scraping and API reverse engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 🚀 I'm looking to collaborate on any type of web project or bot development of any kind.
 
 
@@ -15,18 +15,12 @@ Need the help of a developer to bring your project to life?
 
 ----
 
-🖥 Skills :
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,php,mysql,bootstrap,linux,windows,vscode,bash,java,selenium,androidstudio,kotlin,sass,c&perline=8"/>
+  </a>
+</p>
 
-![Php](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)
-![Html](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![Css](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=fff)
-![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-red?logo=bdd&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=fff)
 ----
 <p align="center"> 
   Compteur de visites<br>
