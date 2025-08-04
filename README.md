@@ -22,7 +22,3 @@ Need the help of a developer to bring your project to life?
 </p>
 
 ----
-<p align="center"> 
-  Compteur de visites<br>
-  <img src="https://profile-counter.glitch.me/rayan38000/count.svg"/>
-</p>
