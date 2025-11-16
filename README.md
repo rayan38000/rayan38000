@@ -1,11 +1,9 @@
-<h1>👨‍💻 Bot developer</h1>
+<h1>👨‍💻 SaaS Developer</h1>
 
 <h2>📚 About </h2>
 
 - 👋 Hi, I’m Rayan
-- 🏆 I'm specialized in bot development, web scraping and API reverse engineering
-- 🌱 I’m currently learning C
-- 🚀 I'm looking to collaborate on any type of web project or bot development of any kind.
+- 🏆 I'm specialized in SaaS development, chatbots, web scraping and API reverse engineering
 
 
 ----
