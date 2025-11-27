@@ -15,7 +15,7 @@ Need the help of a developer to bring your project to life?
 
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-   <img src="https://skillicons.dev/icons?i=python,html,css,php,bootstrap,linux,windows,vscode,bash,java,selenium,androidstudio,kotlin,sass,sqlite,postgresql,docker,supabase,nodejs,antigravity,cursor,nextjs,typescript&perline=11"/>
+   <img src="https://skillicons.dev/icons?i=python,html,css,php,bootstrap,linux,windows,vscode,bash,java,selenium,androidstudio,kotlin,sass,sqlite,postgresql,docker,supabase,nodejs,nextjs,typescript&perline=11"/>
   </a>
 </p>
 
